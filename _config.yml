@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
 title: [Meu Site!]
 description: [Este é mais uma tentativa de teste de site pelo github.]
-show_downloads: [false]
+show_downloads: [FALSE]
 google_analytics: [Your Google Analytics tracking ID]
